@@ -12,7 +12,11 @@ Therefore, finding factors that increase customer churn is important to take nec
 to reduce this churn. The main contribution of our work is to develop a churn prediction model 
 which assists telecom operators to predict customers who are most likely subject to churn.
 
-#Tools Used
+### Tools Used
 1. R
 2. R Studio
 3. Tableau (For Visualizations)
+
+### Dashboard
+![image](https://user-images.githubusercontent.com/52666251/229160720-fa180bd9-1a38-4aca-91c5-15b884b02291.png)
+
